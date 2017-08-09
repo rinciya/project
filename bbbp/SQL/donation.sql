@@ -1,0 +1,7 @@
+CREATE TABLE donation 
+(email VARCHAR(255) NOT NULL, 
+`name` VARCHAR(255) NOT NULL,
+ phno INT NOT NULL,
+ amt INT NOT NULL, 
+PRIMARY KEY (email));
+

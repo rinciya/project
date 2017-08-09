@@ -1,0 +1,14 @@
+SMAP
+vregisterationform_jsp.java
+JSP
+*S JSP
+*F
++ 0 vregisterationform.jsp
+JSP/vregisterationform.jsp
++ 1 header.jsp
+JSP/header.jsp
+*L
+5,151:49
+5#1,40:200
+155#0,32:239
+*E

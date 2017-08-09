@@ -1,0 +1,14 @@
+CREATE TABLE fund
+ (`name` VARCHAR(255) NOT NULL, 
+email VARCHAR(255) NOT NULL,
+ phno INT NOT NULL, 
+fname VARCHAR(255) NOT NULL,
+ lname VARCHAR(255) NOT NULL,
+ cno INT NOT NULL, 
+scode INT NOT NULL, 
+country VARCHAR(255) NOT NULL, 
+`state` VARCHAR(255) NOT NULL, 
+bno INT NOT NULL, 
+amt INT NOT NULL,
+ PRIMARY KEY (email));
+
